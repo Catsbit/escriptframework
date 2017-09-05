@@ -2,3 +2,16 @@ body {
   background: #f5f5f5;
   font-size: 14px;
 }
+#wrapper {
+  width: 850px;
+  margin: 20px auto;
+}
+sidebar {
+  width: 180px;
+  position: fixed;
+  overflow-y: auto;
+  float: right;
+}
+section {
+  float: leff;
+  
